@@ -2,3 +2,8 @@
     padding: 50px;
     background: #eee;
 }
+
+.content {
+    background: green;
+    color: white;
+}
