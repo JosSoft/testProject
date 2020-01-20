@@ -3,12 +3,10 @@
     background: #eee;
 }
 
-
-.content {
+.main {
     color: blue;
-    background: green;
+    background: rgb(169, 175, 226);
 }
-
 
 .footer{
     color: red;
